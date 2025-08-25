@@ -27,7 +27,7 @@ cd icorp-api
 
 2. Установить зависимости через Composer:
 ```bash
-composer install
+composer install --ignore-platform-reqs
 ```
 3. Убедиться, что ngrok установлен и доступен из терминала.
 
